@@ -1,0 +1,105 @@
+
+.spacer {
+  padding: 25px;
+}
+
+.content1 {
+height: 30vh;
+max-width: auto;
+}
+
+.content-two {
+  height: 100vh;
+ max-width: auto;
+  
+}
+
+.content-three {
+  height: 50vh;
+  max-width: auto;
+}
+
+@font-face {
+  font-family: "Permanent Marker";
+  src: local("Permanent Marker"),
+    url("./PermanentMarker-Regular.ttf");
+}    
+
+.text-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 5px, 15px;
+  transform: translate(-50%,-50%);
+  color: white;
+  background-color: black; 
+  border-radius: 20px;
+  font-size: 40px;
+  font-family: 'Permanent Marker';
+}
+
+.contact {
+  position: absolute;
+  max-width: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: blue;
+  border-radius: 5px;
+  font-size: 5vmin;
+  font-family: 'Permanent Marker';
+  
+}
+
+.cleaning {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 5px, 15px;
+  transform: translate(-50%,-50%);
+  color: black;
+  background-color: white; 
+  border-radius: 20px;
+  font-size: 40px;
+  font-family: 'Permanent Marker';
+}
+
+.customization {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 5px, 15px;
+  transform: translate(-50%,-50%);
+  color: black;
+  background-color: white; 
+  border-radius: 20px;
+  font-size: 40px;
+  font-family: 'Permanent Marker';
+}
+
+.do-over {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 5px, 15px;
+  transform: translate(-50%,-50%);
+  color: blue;
+  background-color: white; 
+  border-radius: 20px;
+  font-size: 40px;
+  font-family: 'Permanent Marker';
+}
+
+.restoring {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 5px, 15px;
+  transform: translate(-50%,-50%);
+  color: blue;
+  background-color: white; 
+  border-radius: 20px;
+  font-size: 40px;
+  font-family: 'Permanent Marker';
+}
+
